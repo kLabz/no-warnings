@@ -1,0 +1,13 @@
+{
+  "name": "no-warnings",
+  "description": "Disable compilation warnings",
+  "version": "0.1.0",
+  "releasenote": "Initial release",
+  "url": "https://github.com/kLabz/no-warnings",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "contributors": [
+    "klabz"
+  ]
+}
